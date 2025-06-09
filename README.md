@@ -1,4 +1,4 @@
-# assignment_2
+# assignment_1
 
 # Rubric for Rubik’s Cube Simulation and Scope Concepts Assignment
 
